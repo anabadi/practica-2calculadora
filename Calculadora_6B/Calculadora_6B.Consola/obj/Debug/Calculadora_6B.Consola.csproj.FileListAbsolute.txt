@@ -1,0 +1,11 @@
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.pdb
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.csprojResolveAssemblyReference.cache
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Users\MARIPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb
+C:\Users\BadiAn\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Users\BadiAn\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Users\BadiAn\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb

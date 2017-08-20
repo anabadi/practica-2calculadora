@@ -1,0 +1,5 @@
+c:\users\marips\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.dll
+c:\users\marips\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.pdb
+c:\users\marips\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csprojResolveAssemblyReference.cache
+c:\users\marips\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.dll
+c:\users\marips\documents\visual studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.pdb

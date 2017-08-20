@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_6B.Libreria", "Calculadora_6B.Libreria\Calculadora_6B.Libreria.csproj", "{D8737D5F-5383-491E-B6FB-7DABD3A4BEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_6B.Windows", "Calculadora_6B.Windows\Calculadora_6B.Windows.csproj", "{71D235F8-4B3A-4F0C-9FDC-EB6CA16A7518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_6B.Consola", "Calculadora_6B.Consola\Calculadora_6B.Consola.csproj", "{5D7FF5E0-DACF-4F94-A378-E0A98548FE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8737D5F-5383-491E-B6FB-7DABD3A4BEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8737D5F-5383-491E-B6FB-7DABD3A4BEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8737D5F-5383-491E-B6FB-7DABD3A4BEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8737D5F-5383-491E-B6FB-7DABD3A4BEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D235F8-4B3A-4F0C-9FDC-EB6CA16A7518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D235F8-4B3A-4F0C-9FDC-EB6CA16A7518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D235F8-4B3A-4F0C-9FDC-EB6CA16A7518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D235F8-4B3A-4F0C-9FDC-EB6CA16A7518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7FF5E0-DACF-4F94-A378-E0A98548FE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7FF5E0-DACF-4F94-A378-E0A98548FE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7FF5E0-DACF-4F94-A378-E0A98548FE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7FF5E0-DACF-4F94-A378-E0A98548FE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
